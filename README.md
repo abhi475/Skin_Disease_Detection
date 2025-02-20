@@ -1,5 +1,8 @@
 About Dataset
 
+Dataset Link
+- https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+
 Context
 - The data consists of images of 23 types of skin diseases taken from http://www.dermnet.com/dermatology-pictures-skin-disease-pictures. The total number of images are around 19,500, out of which approximately 15,500 have been split in the training set and the remaining in the test set.
 
@@ -9,3 +12,6 @@ Content
 
 Acknowledgements
 - The images are taken from the public portal Dermnet (http://www.dermnet.com/) which is the largest dermatology source online built for the purpose of providing online medical education.
+
+Inspiration
+- Build a robust image classifier to categorize any image in one of the 23 mentioned categories.
